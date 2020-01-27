@@ -1,2 +1,2 @@
-# skyblock-items-bugs
-skyblock items official issue tracker 
+# skyblock-items
+skyblock items official github 
