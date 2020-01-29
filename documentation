@@ -6,3 +6,5 @@ grass fertilizer: turns dirt into grass for animals
 diamond/emerald/quartz/lapis chunks: can be crafted into their vanilla counterparts
 tiny slime ball/blocks: tiny slime balls can be crafted into tiny slime blocks and normal slime balls
 diamond half: made from smelting diamond chunks in a furnace and can be combined with cobblestone to make diamond ore 
+crate: when broken with a hammer it drops 1 of the chunks or tiny slime/magma balls
+hammer: used to brake crates
