@@ -8,3 +8,5 @@ tiny slime ball/blocks: tiny slime balls can be crafted into tiny slime blocks a
 diamond half: made from smelting diamond chunks in a furnace and can be combined with cobblestone to make diamond ore 
 crate: when broken with a hammer it drops 1 of the chunks or tiny slime/magma balls
 hammer: used to brake crates
+/skyblockstart: gives the first advancement for skyblock items (for skyblocks)
+/skyblockstop: revokes the first advancement for skyblock items (for non-skyblocks)
