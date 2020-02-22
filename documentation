@@ -13,3 +13,5 @@ hammer: used to brake crates
 sieve: right click on the sieve with dirt for a 25% chance of getting a pebble or right clicking with gravel for a 25% chance of getting iron chunks and a 0.1% chance of getting diamond chunks
 crucible: if you have a bucket in your inventory right click on this with cobblestone to get a lava bucket
 /cave: teleports you out of the mining dim
+/island: opens a GUI for making skyblock islands (10x10, 1x1, 5x5x4)
+/is: ^
